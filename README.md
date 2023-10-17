@@ -32,7 +32,7 @@ Preparing virtual machine from scratch
    with prompt "New…", put this path:
    
    ```
-   -smbios type=1,serial=ds=nocloud-net;s=https://raw.githubusercontent.com/mikarnik/ubuntu-auto-install/main/ubuntu-auto-install
+   -smbios type=1,serial=ds=nocloud-net;s=https://raw.githubusercontent.com/mikarnik/ubuntu-auto-install/main/ubuntu-auto-install/
    ```
 4. In case of Intel computer, adjust virtual machine setup like this:
    - Display: Emulated Display Card: `virtio-vga-gl`
